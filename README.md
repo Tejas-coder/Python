@@ -4,6 +4,7 @@
 - [Assignment 1](#assignment-1)
 - [Assignment 2](#assignment-2)
 - [Assignment 3](#assignment-3)
+- [Assignment 4](#assignment-4)
 
 ## Assignment 1
 
@@ -55,3 +56,19 @@
 - **Output:**  
 ![Assignment-3 Task-2 ](Assignment_3/Task2-output.PNG)
 
+
+## Assignment 4
+
+### Task-1: Read a File and Handle Errors 
+- Opens and reads a text file named sample.txt.
+- Prints its content line by line.
+- Handles errors gracefully if the file does not exist.
+- **Output:** 
+![Assignment-4 Task-1 ](Assignment_4/Task1-output.PNG)
+
+### Task-2: Write and Append Data to a File
+- Takes user input and writes it to a file named output.txt.
+- Appends additional data to the same file.
+- Reads and displays the final content of the file.
+- **Output:** 
+![Assignment-4 Task-2 ](Assignment_4/Task2-output.PNG)
