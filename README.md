@@ -5,6 +5,7 @@
 - [Assignment 2](#assignment-2)
 - [Assignment 3](#assignment-3)
 - [Assignment 4](#assignment-4)
+- [Assignment 5](#assignment-5)
 
 ## Assignment 1
 
@@ -72,3 +73,23 @@
 - Reads and displays the final content of the file.
 - **Output:** 
 ![Assignment-4 Task-2 ](Assignment_4/Task2-output.PNG)
+
+## Assignment 5
+
+### Task-1: Create a Dictionary of Student Marks
+- Creates a dictionary where student names are keys and their marks are values.
+- Asks the user to input a student's name.
+- Retrieves and displays the corresponding marks.
+- If the student’s name is not found, display an appropriate message.
+
+- **Output:** 
+![Assignment-4 Task-1 ](Assignment_5/Task1-output.PNG)
+
+### Task-2: Demonstrate List Slicing 
+- Creates a list of numbers from 1 to 10.
+- Extracts the first five elements from the list.
+- Reverses these extracted elements.
+- Prints both the extracted list and the reversed list
+
+- **Output:** 
+![Assignment-4 Task-2 ](Assignment_5/Task2-output.PNG)
